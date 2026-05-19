@@ -1,17 +1,18 @@
-# Machine-Learning
-This repository contains coursework and experiments for a Machine Learning for NLP course focused on Named Entity Recognition (NER) using the CoNLL 2003 dataset.
+# Machine-Learning - Course Assignments
+This repository contains coursework and experiments for a Machine Learning course focused on Named Entity Recognition (NER).
 
 Repository Structure
 
-assignment1
+1. **Assignment 1**
 Logistic Regression 
 
-assignemt2&3
+
+2. **Assignment 2&3**
 Advanced models and feature engineering.
 Naive Bayes and SVM
 One-hot encoding and word embeddings
 Hyperparameter tuning
 Feature ablation and error analysis
 
-bert
+3. **BERT**
 BERT fine-tuning for NER. Experiment with different random seeds.
